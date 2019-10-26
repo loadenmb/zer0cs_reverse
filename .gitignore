@@ -1,0 +1,10 @@
+
+# dolphin
+**/.directory
+
+# dev files
+*_BAK.*
+*_PRIV.* 
+
+# compiled executeable
+zer0cs_reverse.exe
